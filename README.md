@@ -41,8 +41,14 @@ Para escribir pruebas unitarias revisar la [wiki](https://github.com/odoo-ecuado
 
 
 
-### Dependencias
+## Dependencias
 
+Para escribir pruebas unitarias revisar la [wiki](https://github.com/odoo-ecuador/odoo-ecuador/wiki/Pruebas-Unitarias)
+
+
+## Cómo contribuir
+
+Esta sección explica a desarrolladores cuáles son las maneras habituales de enviar una solicitud de adhesión de nuevo código (“pull requests”), cómo declarar fallos en la herramienta y qué guías de estilo se deben usar al escribir más líneas de código. También puedes hacer un listado de puntos que se pueden mejorar de tu código para crear ideas de mejora.
 
 
 ## Licenses
