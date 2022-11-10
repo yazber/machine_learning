@@ -7,7 +7,9 @@
 
 # l10n-ecuador
 
-TODO: add repo description.
+> Este repositorio contiene el esfuerzo de la comunidad Odoo Ecuador. Nuestro objetivo es brindar a la sociedad ecuatoriana las herramientas necesarias para escalar en el madurez digital, cuyo resultado permita aumentar la productividad de empleados, optimización de recursos
+
+
 
 <!-- /!\ do not modify below this line -->
 
